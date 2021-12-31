@@ -66111,6 +66111,21 @@
       "tags": [
         "social-token"
       ]
+    },
+  {
+    "chainId": 101,
+    "address": "7bMroYf7J8rAzn3Sgt2kH9u1urmkxEHdVaH81UDi8diM",
+    "symbol": "LTRZ",
+    "name": "Legacy Trust 321 Coin",
+    "decimals": 9,
+    "tags": [
+      "social-token",
+      "community-token",
+      "Metaverse-Token",
+      "security-token"
+    ],
+    "extensions":
+      "website": "https://legacytrust321.com/"
     }
   ],
   "version": {
