@@ -66112,25 +66112,29 @@
         "social-token"
       ]
     },
+
+    {
+      "chainId": 103,
+      "address": "7bMroYf7J8rAzn3Sgt2kH9u1urmkxEHdVaH81UDi8diM",
+      "symbol": "LTRZ",
+      "name": "Legacy Trust 321 Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3485gPZHaNvhXC15HqfSUojefN2xPfg5mJCrnY6BNU6T/logo.png",
+      "tags": [
+        "social-tken",
+        "community-token",
+        "Metaverse-Token",
+        "security-token"
+      ],
+      "extensions": {
+        "extensions":
+        "website": "https://lecacytrust321.com"
+      }
+    },
   {
-    "chainId": 101,
-    "address": "7bMroYf7J8rAzn3Sgt2kH9u1urmkxEHdVaH81UDi8diM",
-    "symbol": "LTRZ",
-    "name": "Legacy Trust 321 Coin",
-    "decimals": 9,
-    "tags": [
-      "social-token",
-      "community-token",
-      "Metaverse-Token",
-      "security-token"
-    ],
-    "extensions":
-      "website": "https://legacytrust321.com/"
-    }
-  ],
-  "version": {
-    "major": 0,
+  "version": 
+    "major": 0,    
     "minor": 3,
     "patch": 3
-  }
-}
+  },
+
