@@ -66321,6 +66321,17 @@
         "social-token"
       ]
     }
+    {
+      "chainId": 101,
+      "address": "7bMroYf7J8rAzn3Sgt2kH9u1urmkxEHdVaH81UDi8diM",
+      "symbol": "BZCOIN",
+      "name": "LegaczCoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Rbrewertrust/LegacyTrustCoin/main/logo.png",
+      "tags": [
+        "special-token"
+      ]
+    }
   ],
   "version": {
     "major": 0,
