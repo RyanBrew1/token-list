@@ -42160,17 +42160,6 @@
       "extensions": {
         "website": "https://ratio.finance/"
       }
-	  {
-      "chainId": 103,
-      "address": "7bMroYf7J8rAzn3Sgt2kH9u1urmkxEHdVaH81UDi8diM",
-      "symbol": "ATLS",
-      "name": "Atlas Coin LP/Stable Token",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/Rbrewertrust/AtlasCoin/main/atlascoin5%202021-12-31%20at%2011.35.07%20AM.png",
-      "tags": [
-        "lp-token",
-		"stable-coin"
-      ],
     },
     {
       "chainId": 101,
